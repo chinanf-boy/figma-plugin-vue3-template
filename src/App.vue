@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { ref } from 'vue'
 const count = ref(5)
 
 const create = () => {
@@ -12,8 +11,8 @@ const cancel = () => {
 </script>
 
 <template>
-    <h2>Rectangle Creator 1111</h2>
-    <p>Count: <input v-model="count" /></p>
+    <h2 class="color-red">Rectangle Creator</h2>
+    <p class="p-10px">Count: <input v-model="count" /></p>
     <button @click="create">Create</button>
     <button @click="cancel">Cancel</button>
 </template>
