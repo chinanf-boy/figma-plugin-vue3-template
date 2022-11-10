@@ -1,9 +1,9 @@
 {
-  "name": "vue3-figma-plugin-starter",
-  "version": "0.1.0",
-  "author": "Wendy Gao <wendygaoyuan@163.com>",
+  "name": "figma-plugin-vue3-template",
+  "version": "0.0.1",
+  "author": "Yobrave Lee <yobrave@outlook.com>",
   "license": "MIT",
-  "repository": "https://github.com/wendygaoyuan/vue3-figma-plugin-starter.git",
+  "repository": "https://github.com/chinanf-boy/figma-plugin-vue3-template.git",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
