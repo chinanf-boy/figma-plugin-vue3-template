@@ -2,6 +2,8 @@
 
 A starter for creating a Figma Plugin with Vue3, Typescript, and Vite
 
+> Unocss；unplugin-auto-import；vite-plugin-singlefile；
+
 ## dev (watch)
 
 ```bash
