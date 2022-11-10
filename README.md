@@ -1,2 +1,9 @@
-# figma-plugin-vue3-template
-Copy From wendygaoyuan/vue3-figma-plugin-starter (FIXed)
+# Figma + Vue3 + Vite
+
+A starter for creating a Figma Plugin with Vue3, Typescript, and Vite
+
+## dev (watch)
+
+```bash
+pnpm i && pnpm watch
+```
